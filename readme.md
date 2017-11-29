@@ -2,7 +2,7 @@
 	<br>
 	<img width="300" src="media/text45.png">
 	<br>
-	<img src="">  <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
+	<img src="https://travis-ci.org/CodeDotJS/repogit.svg?branch=master">  <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
 	<br>
 </h1>
 
