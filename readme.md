@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="300" src="media/text45.png">
+	<img width="300" src="https://raw.githubusercontent.com/CodeDotJS/repogit/master/media/text45.png">
 	<br>
 	<img src="https://travis-ci.org/CodeDotJS/repogit.svg?branch=master">  <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
 	<br>
@@ -40,7 +40,7 @@ $ npm install --global repogit
 
 ## Preview
 
-<p align="center"><img src="media/repogit.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CodeDotJS/repogit/master/media/repogit.gif"></p>
 
 ## License
 
